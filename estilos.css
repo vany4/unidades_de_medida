@@ -1,0 +1,18 @@
+html{font-size: 24px;} /*sirve para establecer la medida del elemento raíz*/
+h1{font-size: 16px;} /*sirve para modifiar el tamaño y unidad del texo*/
+h2{font-size: 1rem;} /*modifica el tamaño y unidad*/
+h3{font-size: 1.75rem;} /*modifica el tamaño y unidad*/
+h4{font-size: 1.5rem;} /*modifica el tamaño y uniddad*/
+h5{font-size: 1.25rem;} /*modifica el tamño y unidad*/
+h6{font-size: 1.05rem;} /*modifica el tamaño y unidad*/
+.contenedor{
+    width: 70%; /*sirve para modificar el ancho*/
+    height: 400px; /*sirve para modificar la altura*/
+    background-color: aqua; /*sirve para modificar el color de fondo*/
+    margin: 30px auto; /*sirve para colocar un margen*/
+}
+.hijo{
+    width: 70vw; /*sirve para modificar el ancho respecto a la pantalla*/
+    height: 50vw;/*sirve para modificar la altura respecto a la pantalla*/
+    background-color: blueviolet; /*sirve para modificar el color de fondo*/
+}
